@@ -1,7 +1,7 @@
 # Structure-Texture Image Decomposition Using Deep Variational Priors
 
 ## 著者
-  Youngjung Kim +
+  Youngjung Kim, Bumsub Ham, Minh N. Do, Kwanghoon Sohn
 
 ## 何のための研究？
 画像の構造-テクスチャ分離
@@ -25,5 +25,6 @@
 
 
 ## この論文の問題点や課題は？
+
 
 ## 実装はある？
